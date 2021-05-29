@@ -1,0 +1,16 @@
+/home/artem/RiderProjects/ManualDI/ManualDI/bin/Debug/net5.0/ManualDI
+/home/artem/RiderProjects/ManualDI/ManualDI/bin/Debug/net5.0/ManualDI.deps.json
+/home/artem/RiderProjects/ManualDI/ManualDI/bin/Debug/net5.0/ManualDI.runtimeconfig.json
+/home/artem/RiderProjects/ManualDI/ManualDI/bin/Debug/net5.0/ManualDI.runtimeconfig.dev.json
+/home/artem/RiderProjects/ManualDI/ManualDI/bin/Debug/net5.0/ManualDI.dll
+/home/artem/RiderProjects/ManualDI/ManualDI/bin/Debug/net5.0/ref/ManualDI.dll
+/home/artem/RiderProjects/ManualDI/ManualDI/bin/Debug/net5.0/ManualDI.pdb
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.csprojAssemblyReference.cache
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.AssemblyInfoInputs.cache
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.AssemblyInfo.cs
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.csproj.CoreCompileInputs.cache
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.dll
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ref/ManualDI.dll
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.pdb
+/home/artem/RiderProjects/ManualDI/ManualDI/obj/Debug/net5.0/ManualDI.genruntimeconfig.cache

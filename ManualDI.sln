@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualDI", "ManualDI\ManualDI.csproj", "{C408B794-E4AA-45DC-AA9E-FF5C962CAC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C408B794-E4AA-45DC-AA9E-FF5C962CAC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C408B794-E4AA-45DC-AA9E-FF5C962CAC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C408B794-E4AA-45DC-AA9E-FF5C962CAC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C408B794-E4AA-45DC-AA9E-FF5C962CAC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

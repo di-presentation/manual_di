@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WmycO13by1bF8b0M3+6nochgKjQVCjAyo8lGNXivbhsWeX7XIPpkrMczCn1XPXxByFsUYa37BPkMIDSPx9HuQ==",
+  "success": true,
+  "projectFilePath": "/home/artem/RiderProjects/ManualDI/ManualDI/ManualDI.csproj",
+  "expectedPackageFiles": [
+    "/home/artem/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
